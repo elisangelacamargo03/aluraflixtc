@@ -10,7 +10,7 @@ p {
 }
 header{
     border-bottom: solid 2px rgb(42, 122, 228);
-    margin: 20px;
+    margin: 20p
     font-size: 32px;
     color: rgb(42, 122, 228);
     font-family:"Chakra Petch" sans-serif;
@@ -19,6 +19,8 @@ section {
     background:  rgb(184, 156 ,213);
     padding-bottom: 80px;
     padding-top:80px ;
+    display: flex;
+    justify-content: center;
 }
 
 
